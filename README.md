@@ -1,4 +1,6 @@
 ## About Me👩‍💻👩‍💻👩‍💻
+
+
 <h1 align="center">Hi 👋, I'm Laya Mary Joy</h1>
 <h3 align="center">A passionate Data Eng,Mgmt & Governance Associate from India</h3>
 
@@ -20,8 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/laya mary joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laya mary joy" height="30" width="40" /></a>
-<a href="https://fb.com/laya mary joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laya mary joy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/laya-mary-joy-3a7196216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laya-mary-joy-3a7196216/" height="30" width="40" /></a>
 <a href="https://instagram.com/laya_mary_ammu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laya_mary_ammu" height="30" width="40" /></a>
 </p>
 
@@ -31,6 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laya123-star&show_icons=true&locale=en&layout=compact" alt="laya123-star" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laya123-star&show_icons=true&locale=en" alt="laya123-star" /></p>
-
-
-
