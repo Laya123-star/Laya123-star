@@ -1,34 +1,131 @@
-## About Me👩‍💻👩‍💻👩‍💻
-
+# 👩‍💻 About Me
 
 <h1 align="center">Hi 👋, I'm Laya Mary Joy</h1>
-<h3 align="center">A passionate Data Eng,Mgmt & Governance Associate from India</h3>
+<h3 align="center">Data Warehouse & ETL Tester | Aspiring Data Scientist | Data & AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laya123-star&label=Profile%20views&color=0e75b6&style=flat" alt="laya123-star" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laya123-star" alt="laya123-star" /></a> </p>
-
-- 🔭 I’m currently working on **Data Warehouse & ETL Tester**
-
-- 🌱 I’m currently learning **Building on my recent Data Analyst certification by exploring advanced features of Power BI and Excel for data analysis and visualization. Enhancing my knowledge of SQL for complex queries and data manipulation. Deepening my understanding of Unix commands and their applications in data processing. Gaining proficiency in tools like Jira, Putty, WinSCP, and Ab Initio to streamline ETL and data warehousing processes.**
-
-- 👯 I’m looking to collaborate on **Projects involving data analysis, ETL processes, data warehousing, and business intelligence. I'm eager to contribute to open-source projects, collaborate on data-driven solutions, and work with others to develop robust data models, dashboards, and automated data pipelines.**
-
-- 🤝 I’m looking for help with **Expanding my knowledge of advanced data analytics techniques, cloud-based data solutions (e.g., AWS, Azure), and big data tools. I'm also interested in learning more about data engineering best practices, optimizing ETL workflows, and integrating machine learning models into data pipelines.**
-
-- 💬 Ask me about **Power BI, SQL, Unix, ETL Process, Data Validation, Putty, WinSCP, JIRA, AbInitio**
-
-- 📫 How to reach me **layamaryjoy98@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/laya-mary-joy-3a7196216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laya-mary-joy-3a7196216/" height="30" width="40" /></a>
-<a href="https://instagram.com/laya_mary_ammu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laya_mary_ammu" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=laya123-star&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laya123-star&show_icons=true&locale=en&layout=compact" alt="laya123-star" /></p>
+## 🚀 Professional Summary
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laya123-star&show_icons=true&locale=en" alt="laya123-star" /></p>
+- 💼 **3.5+ years of experience** as a **Data Warehouse & ETL Tester**
+- 🎓 MCA – CET College Trivandrum  
+- 🎓 BCA – BPC College Piravom  
+- 📊 Certified in **Data Analytics (Skillovilla)**
+- 🤖 Currently pursuing **Data Science & Generative AI (Entri Elevate)**
+- 🌟 Aspiring **Data Scientist**
+
+---
+
+## 🔭 Current Work
+
+- Working on **Data Warehouse Testing & ETL Validation**
+- Handling **test planning, execution, defect tracking using JIRA**
+- Building and validating **data pipelines using Ab Initio**
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced **Power BI & Excel**
+- **SQL (Complex Queries & Optimization)**
+- **Machine Learning & Deep Learning**
+- **Generative AI & Prompt Engineering**
+- Basics of **Cloud (AWS, Azure)**
+
+---
+
+## 🧠 Skills & Expertise
+
+### 💻 Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Visualization-yellow)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+![Python](https://img.shields.io/badge/Python-DataScience-blue)
+
+### ⚙️ ETL & Tools
+![Ab Initio](https://img.shields.io/badge/AbInitio-ETL-orange)
+![Unix](https://img.shields.io/badge/Unix-Commands-black)
+![JIRA](https://img.shields.io/badge/JIRA-ProjectTracking-blue)
+![GitLab Duo](https://img.shields.io/badge/GitLab%20Duo-AI-orange)
+![WinSCP](https://img.shields.io/badge/WinSCP-FileTransfer-green)
+![PuTTY](https://img.shields.io/badge/PuTTY-SSH-lightgrey)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)
+
+---
+
+## 🤖 Data Science & AI Experience
+
+- 📊 Built **Student Performance Predictor (ML Project)**  
+  - Deployed using **Streamlit**
+- 📈 Worked on:
+  - Supervised & Unsupervised Learning
+  - Classification & Regression Models
+- 🧠 Deep Learning:
+  - CNN, RNN, Autoencoders
+  - Sentiment Analysis
+- 🤖 Generative AI:
+  - Prompt Engineering
+  - ChatGPT-based solutions
+
+---
+
+## 📂 Tools & Platforms Used
+
+- Ab Initio (ETL Processing)
+- JIRA (Test Management & Defect Tracking)
+- GitLab Duo (AI-assisted development)
+- Unix, PuTTY, WinSCP
+- Excel, Power BI, SQL
+
+---
+
+## 🤝 Collaboration Interests
+
+- Data Analytics Projects
+- ETL & Data Warehousing Solutions
+- Machine Learning & AI Projects
+- Open Source Contributions
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/layamaryjoy" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/laya_mary_ammu" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+</p>
+
+📧 Email: **layamaryjoy98@gmail.com**
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laya123-star&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laya123-star&show_icons=true&locale=en" />
+</p>
+
+---
+
+⭐ *"Turning Data into Insights | Passionate about AI & Data Science"*
